@@ -1,0 +1,6 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="6000"
+    android:propertyName="rotation"
+    android:valueFrom="0"
+    android:valueTo="360"/><!-- From: file:/C:/Users/Cagkan/Desktop/AndroidAnimationExamples/animated-vector-drawable-master/app/src/main/res/anim/rotation.xml -->

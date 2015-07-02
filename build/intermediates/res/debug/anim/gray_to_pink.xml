@@ -1,0 +1,6 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@integer/heart_animation_duration"
+    android:propertyName="fillColor"
+    android:valueFrom="@color/gray"
+    android:valueTo="@color/pink"/><!-- From: file:/C:/Users/Cagkan/Desktop/AndroidAnimationExamples/animated-vector-drawable-master/app/src/main/res/anim/gray_to_pink.xml -->
